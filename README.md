@@ -8,4 +8,5 @@
 - 😄 Pronouns: Apache Helicopter
 - 🌖 Yes, we did the first bitcoin transaction using the moon
 
-Cada “onda” nasce em reação aos excessos ou fracassos da onda anterior. Quando há desordem e instabilidade, crescem forças de ordem; quando há rigidez e desigualdade, crescem forças de mudança.
+Each “wave” arises in reaction to the excesses or failures of the previous one. When there is disorder and instability, forces of order grow; when there is rigidity and inequality, forces of change emerge.
+
